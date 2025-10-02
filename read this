@@ -1,0 +1,12 @@
+## How to Use
+
+1. **Run the script** – it will ask you for a **Quest ID**.
+2. Paste the **quest link** you want to complete.
+3. Run the script again – it will generate a **code** for you.
+4. Open **Discord** and press `Ctrl + Shift + I` to open the console.
+5. Paste the generated code into the console.
+
+   * If Discord doesn’t allow you to paste, just type `allow pasting`, then paste again.
+6. Hit **Enter** – and you’re done 🎉
+
+## This cpde designed to run indefinitely
