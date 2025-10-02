@@ -31,7 +31,7 @@ Press Win + R and type: %appdata%
 Open the Discord folder → find settings.json
 
 3️⃣ Replace Settings
-Open settings.json and replace all content with: [Google Drive link #1](https://drive.google.com/file/d/1WmIBljTjWJTPzEk-0FRhmATLEkRv3Umv/view?usp=sharing)
+Open settings.json and replace all content with: With the code I sent above
 
 4️⃣ Restart Discord
 Restart the app
@@ -40,7 +40,7 @@ Restart the app
 Press Ctrl + Shift + I
 
 6️⃣ Download Script
-Download this file (used for every quest): With the code I sent above
+Download this file (used for every quest): [Google Drive link #1](https://drive.google.com/file/d/1WmIBljTjWJTPzEk-0FRhmATLEkRv3Umv/view?usp=sharing)
 
 7️⃣ Run Script
 Open with Visual Studio and run
