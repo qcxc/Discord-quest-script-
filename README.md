@@ -1,6 +1,7 @@
 # Discord-quest-script-
 **How to claim and complete all Discord quests rewards for free (Clean method)**
-``` {
+```
+{
     "chromiumSwitches": {},
     "DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true,
     "MIN_WIDTH": 940,
