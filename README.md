@@ -7,7 +7,7 @@
     "MIN_HEIGHT": 500,
     "IS_MAXIMIZED": true,
     "IS_MINIMIZED": false
-}```
+} 
 
 This is my first post on Reddit, so I’ll keep it simple and clear.
 ⚠️ For developers: you can also check the code files linked below.
