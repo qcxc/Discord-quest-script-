@@ -15,14 +15,14 @@ This is my first post on Reddit, so I’ll keep it simple and clear.
 
 ---
 
-## 🖥️ Requirements
+# 🖥️ Requirements
 • PC (works best)
 • Visual Studio
 
 ---
 
 
-##🔹 Steps
+#🔹 Steps
 
 1️⃣ Open AppData
 Press Win + R and type: %appdata%
