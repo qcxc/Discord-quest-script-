@@ -40,7 +40,7 @@ Restart the app
 Press Ctrl + Shift + I
 
 6️⃣ Download Script
-Download this file (used for every quest): [Google Drive link #1](https://drive.google.com/file/d/1WmIBljTjWJTPzEk-0FRhmATLEkRv3Umv/view?usp=sharing)
+Download this file (used for every quest): https://drive.google.com/file/d/1WmIBljTjWJTPzEk-0FRhmATLEkRv3Umv/view?usp=sharing
 
 7️⃣ Run Script
 Open with Visual Studio and run
